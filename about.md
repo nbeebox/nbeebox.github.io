@@ -1,4 +1,8 @@
-# AIBox
+---
+layout: page
+title: 关于
+permalink: /about/
+---
 
 <p align="center">
   <img src="/assets/favicon-384x384.png" alt="AIBOX" width="36%"/>
